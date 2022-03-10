@@ -1,0 +1,19 @@
+#container {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  flex-wrap: wrap;
+  height: 320px;
+  width: 320px;
+}
+
+
+.square{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 20px;
+    width: 20px;
+    background-color: grey;
+}
